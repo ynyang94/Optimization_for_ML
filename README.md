@@ -9,3 +9,5 @@ It focuses on unconstrained first-order methods which are frequently used in are
 5. accelerated gradient descent (heavy-ball methods and Nesterov acceleration)
 6. ADMM algorithm (rPCA for video object detection)
 7. SGD algorithm: sample with/without replacement, average SGD, momentum acceleration.
+## Note
+For any faculties or students who want to use these codes during class or homework, you can directly use them for reference or demo.
