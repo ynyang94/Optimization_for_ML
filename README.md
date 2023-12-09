@@ -11,4 +11,4 @@ It focuses on unconstrained first-order methods which are frequently used in are
 7. ADMM algorithm (rPCA for video object detection)
 8. SGD algorithm: sample with/without replacement, average SGD, momentum acceleration.
 ## Note
-For any faculties or students who want to use these codes during class or homework, you can directly use them for reference or demo.
+For any college faculties or students who want to use these codes during class or homework, you can directly use them for reference or demo.
