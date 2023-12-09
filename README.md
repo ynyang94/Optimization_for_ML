@@ -1,4 +1,4 @@
-# Optimization4ML
+# Optimization for Machine Learning
 This repository includes all codes implementation of a graduate-level optimization for machine learning course.\
 It focuses on unconstrained first-order methods which are frequently used in area of machine learning and data science.
 ## Topics include:
